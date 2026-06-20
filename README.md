@@ -31,25 +31,6 @@ StockPortfolioTracker/
 └── README.md
 ```
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/StockPortfolioTracker.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd StockPortfolioTracker
-```
-
-3. Run the application:
-
-```bash
-python stock_portfolio_tracker.py
-```
 
 ## Usage
 
@@ -96,7 +77,7 @@ This project demonstrates:
 
 ## Author
 
-Developed as part of the CodeAlpha Python Programming Internship.
+Samir Kumar
 
 ## License
 
