@@ -1,0 +1,4 @@
+AAPL: 50 × $180 = $9000
+AMZN: 500 × $190 = $95000
+
+Total Portfolio Value = $104000
